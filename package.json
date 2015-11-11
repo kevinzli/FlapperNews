@@ -1,0 +1,24 @@
+{
+  "name": "flappernews",
+  "version": "1.0.0",
+  "description": "Flapper News",
+  "main": "app.js",
+  "dependencies": {
+    "angular-ui-router": "^0.2.15",
+    "bower": "^1.6.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinzli/FlapperNews.git"
+  },
+  "author": "Kevin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kevinzli/FlapperNews/issues"
+  },
+  "homepage": "https://github.com/kevinzli/FlapperNews#readme"
+}
