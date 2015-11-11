@@ -1,0 +1,19 @@
+{
+  "name": "FlapperNews",
+  "description": "A Flapper News app",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "authors": [
+    "Kevin"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "angularjs#~1.4.7",
+    "bootstrap": "~3.3.5",
+    "underscore": "~1.8.3"
+  }
+}
